@@ -1,0 +1,7 @@
+.hidden {
+  display: none;
+}
+
+#shoutingOutput {
+  font-size: 25px;
+}
